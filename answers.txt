@@ -3,3 +3,6 @@ Lab 3:
 Pros of Agile Development: Ideal for innovative projects, promotes team involvement and collaboration
 Cons of Agile Development: Changing Delivery Dates, Scalability Issues
 
+2.
+Product Owner: Focuses on maximizing product value and managing business priorities.
+Scrum Master: Focuses on Guiding the team's processes and removing obstacles.
