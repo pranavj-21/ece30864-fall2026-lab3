@@ -1,1 +1,5 @@
+Lab 3:
+1.
+Pros of Agile Development: Ideal for innovative projects, promotes team involvement and collaboration
+Cons of Agile Development: Changing Delivery Dates, Scalability Issues
 
