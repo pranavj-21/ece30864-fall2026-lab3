@@ -11,3 +11,9 @@ Scrum Master: Focuses on Guiding the team's processes and removing obstacles.
 Sprint Planning Meeting: Determines what to complete in the coming sprint, Starts Sprint
 Daily Scrum: Short meetings that happen everyday, members discuss work completed
 Sprint Retrospective Meeting: Discuss Work completed, close sprint
+
+4.
+Epic(top level) is the largest goal that contains smaller peer items like Stories, Tasks and Bugs.
+Story(system requirement) is a feature written from the end user.
+Task is a piece of work that needs to be done like a tech operation.
+Bug is a flaw or error that breaks a function in a product that needs to be fixed.
