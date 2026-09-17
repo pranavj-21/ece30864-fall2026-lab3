@@ -6,3 +6,8 @@ Cons of Agile Development: Changing Delivery Dates, Scalability Issues
 2.
 Product Owner: Focuses on maximizing product value and managing business priorities.
 Scrum Master: Focuses on Guiding the team's processes and removing obstacles.
+
+3.
+Sprint Planning Meeting: Determines what to complete in the coming sprint, Starts Sprint
+Daily Scrum: Short meetings that happen everyday, members discuss work completed
+Sprint Retrospective Meeting: Discuss Work completed, close sprint
